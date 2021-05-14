@@ -19,6 +19,8 @@ tags: [CS,common_sense,Study_for_Beginner]
 
 REST의 기본 원칙을 성실히 지킨 서비스 디자인은 “RESTful 하다.” 라고 흔히 표현
 
+<br>
+
 ## REST API의 구성
 
 ---
@@ -37,6 +39,7 @@ HTTP POST,http://mycompany/members/
 # "POST/생성한다"는 행위
 # "이름이 Leece인 회원"이라는 메세지
 ```
+<br>
 
 ## REST API 중심 규칙
 
@@ -63,6 +66,7 @@ GET /members/1
 # 회원 추가
 POST /members/2
 ```
+<br>
 
 ## HTTP Method
 
@@ -71,6 +75,8 @@ POST /members/2
 👉🏻 주로 5가지의 Method를 사용하여 CRUD 구현
 
 [HTTP Method](https://www.notion.so/500ed30451f84c23ba30fe42fa359c2f)
+
+<br>
 
 ## REST API 특징
 
@@ -100,6 +106,9 @@ POST /members/2
     - Proxy, Gateway와 같은 네트워크 기반의 중간매체를 사용할 수 있음
     - 단, 클라이언트는 어느 계층의 서버와 통신하는지 알 수 없음.
 
+
+<br>
+
 ## 참고
 
 ---
@@ -110,5 +119,5 @@ POST /members/2
 
 [REST 아키텍처를 훌륭하게 적용하기 위한 몇 가지 디자인 팁](https://spoqa.github.io/2012/02/27/rest-introduction.html)
 
----<br>
-### [🚦 Study_for_Beginner 바로가기](https://github.com/Butterfly-effect-19/Study_for_Beginner.git)
+
+[🚦 Study_for_Beginner 바로가기](https://github.com/Butterfly-effect-19/Study_for_Beginner.git)
