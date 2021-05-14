@@ -114,7 +114,7 @@ POST /members/2
 <br>
 
 ## 참고
-
+---
 [REST API의 특징](https://mangkyu.tistory.com/46)
 
 [REST API 중심 규칙](https://poiemaweb.com/js-rest-api)
