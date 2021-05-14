@@ -73,9 +73,13 @@ POST /members/2
 ---
 
 👉🏻 주로 5가지의 Method를 사용하여 CRUD 구현
-
-[HTTP Method](https://www.notion.so/500ed30451f84c23ba30fe42fa359c2f)
-
+|Method|역할|
+|------|----------|
+|GET|모든/특정 리소스를 조회|
+|POST|리소스를 생성|
+|PUT|리소스의 전체를 교체|
+|PATCH|리소스의 일부를 수정|
+|DELETE|모든/특정 리소스를 삭제|
 <br>
 
 ## REST API 특징
